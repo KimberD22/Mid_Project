@@ -1,0 +1,19 @@
+#background {
+    background-image: url("images/outerspace.png");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    height: 800px;
+    width: 800px;
+}
+
+
+
+
+#instructions {
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
